@@ -19,8 +19,7 @@ Start the development server: npm run server
 Directory Structure:
 
 php
-Copy code
-├── src
+├── src=
 │   ├── backend        # Client-side code (React components, etc.)
 │   ├── frontend       # Server-side code (Express.js, API routes, etc.)
 │   ├── views          # EJS templates for server-side rendering
