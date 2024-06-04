@@ -13,8 +13,11 @@ Key Features:
 Usage:
 
 Clone this repository: git clone https://github.com/MaitreeShakya/nodejs-typescript-decorators-template.git
+
 Install dependencies: npm install
+
 Build the project: npm run bundle
+
 Start the development server: npm run server
 
 Contributing:
