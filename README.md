@@ -16,19 +16,6 @@ Clone this repository: git clone https://github.com/MaitreeShakya/nodejs-typescr
 Install dependencies: npm install
 Build the project: npm run bundle
 Start the development server: npm run server
-Directory Structure:
-
-php
-├── src=
-│   ├── backend        # Client-side code (React components, etc.)
-│   ├── frontend       # Server-side code (Express.js, API routes, etc.)
-│   ├── views          # EJS templates for server-side rendering
-│   └── index.ts       # Entry point for the server
-├── bundle             # Static assets served by the server
-├── app.js             # Compiled TypeScript files and bundled assets
-├── webpack.config.js  # Webpack configuration for bundling assets
-├── tsconfig.json      # TypeScript configuration
-└── package.json       # Project dependencies and scripts
 
 Contributing:
 
